@@ -16,3 +16,4 @@ A Python script to automatically send birthday wishes via email. Reads a list of
 ```bash
 git clone https://github.com/AhmadOmidSaifi/auto-birthday-wisher.git
 cd auto-birthday-wisher
+pip install -r requirements.txt
