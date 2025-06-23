@@ -1,6 +1,6 @@
 # Birthday Wisher
 
-A Python script to automatically send birthday wishes via email. Reads a list of birthdays from a CSV file and sends a personalized message to each person on their birthday.
+A Python script to automatically send birthday wishes via email, Reads a list of birthdays from a CSV file and sends a personalized message to each person on their birthday.
 
 ## Features
 
